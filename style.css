@@ -49,3 +49,8 @@ main h2 {
     background-color: green;
     color: white;
 }
+.alexa-style {
+    color: #ff9c2c;
+    background-color: black;
+    padding: 5px;
+}
